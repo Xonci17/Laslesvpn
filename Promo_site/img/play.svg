@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="85px" height="85px" viewbox="0 0 85 85" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.027689615" y1="0.5" x2="1" y2="0.5" id="gradient_1">
+      <stop offset="0" stop-color="#FE985B" />
+      <stop offset="1" stop-color="#FE4FA7" />
+    </linearGradient>
+  </defs>
+  <g id="Group-4" transform="translate(0.5 0.5)">
+    <path d="M42 84C65.196 84 84 65.196 84 42C84 18.804 65.196 0 42 0C18.804 0 0 18.804 0 42C0 65.196 18.804 84 42 84Z" id="Oval" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <path d="M12 6L0 12L0 0L12 6Z" transform="translate(36 36)" id="Triangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
